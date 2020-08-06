@@ -1,2 +1,3 @@
-# S-Traut
- 
+# STEPHANE TRAUT
+### C# | JS | HTML | CSS DEVELOPER
+
