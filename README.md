@@ -2,7 +2,7 @@
 > C# | JS | HTML | CSS DEVELOPER
 
 ### My works:
-[<img align="left" alt="HTML5" width="260px" src="https://img.itch.zone/aW1nLzM2NDM4NjQuanBn/original/2AxcJs.jpg" />][workImpulsers]
+[<img align="left" alt="HTML5" width="600px" src="https://img.itch.zone/aW1nLzM2NDM4NjQuanBn/original/2AxcJs.jpg" />][workImpulsers]
 
 ### Connect with me:
 
