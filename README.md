@@ -14,7 +14,7 @@ My current tech stack is mostly focused on JS/TS framework API developments and 
 - Learning low-level development (Rust, C++)
 - Creating a WASM web app
 
-### My roadmap
+### History
 - (2016) Game maker language 
 - (2016) Unity / C# 
 - (2019) Unreal BP/C++ 
