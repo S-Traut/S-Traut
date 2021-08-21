@@ -17,7 +17,7 @@ My current tech stack is mostly focused on JS/TS framework API developments and 
 ### History
 - (2016) Game maker language 
 - (2016) Unity / C# 
-- (2019) Unreal BP/C++ 
+- (2019) Unreal BP
 - (2020) HTML / CSS 
-- (2021) JS / PHP / Web stacks / Linux / Rust 
+- (2021) JS / PHP / Web stacks / Linux / C++ 
 - (2021) First full time job as a back-end developer 
