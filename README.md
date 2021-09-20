@@ -11,8 +11,8 @@ My current tech stack is mostly focused on JS/TS framework API developments and 
 
 
 ### Current goals
-- Learning low-level development (Rust, C++)
-- Creating a WASM web app
+- Learning low-level development (C, Rust)
+- Converting .osb file to non-repeating binary architecture
 
 ### History
 - (2016) Game maker language 
