@@ -1,2 +1,1 @@
-## ABOUT ME
 Code enjoyer
