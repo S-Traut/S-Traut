@@ -8,3 +8,4 @@ const STACK = {
   languages: ["C", "Rust", "TS", "JS"]
 }
 ```
+Want a simple porfolio website? Add me on discord ``.pono`` or contact me via email.
